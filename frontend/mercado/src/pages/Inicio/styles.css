@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Nanum+Brush+Script&display=swap');
+.inicio__container{
+    background-image: url("../assets/back.png");
+    background-color: #f7f7f7;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.inicio__container section h1{
+    text-align: center;
+    font-size: 100px;
+    color: #31afb4;
+    font-family: 'Caveat Brush', cursive;
+}
+.inicio__container section h2{
+    text-align: center;
+    font-size: 60px;
+    color: #31afb4;
+    font-family: 'Caveat Brush', cursive;
+}
+
+.img1{
+    text-align: center;
+}
